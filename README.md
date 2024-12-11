@@ -1,0 +1,1 @@
+This repository contains a collection of C++ programs that implement various fundamental data structures, including queues, stacks, and more. Each file is designed to demonstrate the functionality and practical use of these structures, providing clear and concise examples.
